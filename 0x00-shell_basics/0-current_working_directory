@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 pwd
+=======
+printf 'pwd'
+>>>>>>> 8e672a8a2f2d6e76574215e8c2e09047f1b3c7ef
